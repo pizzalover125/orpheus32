@@ -54,3 +54,28 @@
 <img width="654" height="475" alt="image" src="https://github.com/user-attachments/assets/3fbc79ac-e92a-4ebd-8b1a-e40a859dff09" />
 
 - ok time to find bugs and do more revisions!
+
+### 5/18: rev 2 (2hrs)
+- time to fix everything I did wrong, such as:
+
+<img width="363" height="175" alt="image" src="https://github.com/user-attachments/assets/0aa66358-7195-4cc3-9b9f-fc69c958fff8" />
+
+- also apparently my routing is inefficient
+
+- REROUTED EVERYTHING AGAIN BUT IT STILL DIDN"T WORK
+- AHHHHH
+
+<img width="759" height="507" alt="image" src="https://github.com/user-attachments/assets/45149e4d-0925-4d52-ac21-19b0cc0631f8" />
+
+- time to watch https://www.youtube.com/watch?v=KgOQaBUPiBo
+- ok that vid no good lets try https://www.youtube.com/watch?v=v2okbB05piE
+- AI slop vid; nvm lets try https://www.youtube.com/watch?v=0tuuMSxcVxg
+- got it working!
+
+<img width="604" height="419" alt="image" src="https://github.com/user-attachments/assets/b54e11d2-54d0-4d2d-9c33-5c1cb2f54dfa" />
+
+- w render
+- and we are done with routing for rev2... wow this is turning out great! next rev, need to minimize vias from 15 to like 5
+
+<img width="724" height="521" alt="image" src="https://github.com/user-attachments/assets/a5b7a68e-b5ad-479a-b604-017c4db5f8b2" />
+

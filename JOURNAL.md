@@ -2,8 +2,7 @@
 - During highway, Jenin had this idea to make an ESP32 devboard called Orpheus32, but ended up never making it and granted me permission to make it
 - I never made it... until now!
 - im going to use KiCad
-- going to read this https://documentation.espressif.com/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf
-- ok read it; it was very boring but pretty useful about where to place capacitors and stuff
+- going to use WROOM-32
 - realized that it doesn't have easy USB pins like RP2040; need a USB to UART coverter
 - after some vary minimal research, it looks like CH340C is the standard for the converter
 - using LDO AMS117 3.3v edition
@@ -79,3 +78,20 @@
 
 <img width="724" height="521" alt="image" src="https://github.com/user-attachments/assets/a5b7a68e-b5ad-479a-b604-017c4db5f8b2" />
 
+### 5/19: rev 3 (1hr)
+- @Rudy on Slack told me to use a ESP32 with built-in UART-to-USB
+- ig thats what we are doing for this
+- after brief research, I found ESP32-S3-WROOM-1 with 36 GPIO
+- will read https://documentation.espressif.com/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf
+- idk if I even should create a board bc its going to be super basic
+- copied USB-C w/o diode
+- going to use same power circuitry
+- added buttons
+
+<img width="894" height="453" alt="image" src="https://github.com/user-attachments/assets/75027cbf-4164-4623-b277-2190b0d887d3" />
+
+- bruh my schematic feels so basic
+
+<img width="624" height="511" alt="image" src="https://github.com/user-attachments/assets/6f2edb70-1740-4331-844c-920b3495b826" />
+
+- pcb also feels too basic... idk if this is worth it cause its too basic

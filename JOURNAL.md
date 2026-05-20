@@ -78,7 +78,7 @@
 
 <img width="724" height="521" alt="image" src="https://github.com/user-attachments/assets/a5b7a68e-b5ad-479a-b604-017c4db5f8b2" />
 
-### 5/19: rev 3 (1hr)
+### 5/19: rev 3 (3hr)
 - @Rudy on Slack told me to use a ESP32 with built-in UART-to-USB
 - ig thats what we are doing for this
 - after brief research, I found ESP32-S3-WROOM-1 with 36 GPIO
@@ -95,3 +95,22 @@
 <img width="624" height="511" alt="image" src="https://github.com/user-attachments/assets/6f2edb70-1740-4331-844c-920b3495b826" />
 
 - pcb also feels too basic... idk if this is worth it cause its too basic
+
+- ok im back after a couple of hours
+- i'm going to make this a sensor board
+- finally mastered differential pairs in KiCad w https://www.youtube.com/watch?v=M13QxtPVrXY!
+- wait routing this is impossible
+
+<img width="621" height="317" alt="image" src="https://github.com/user-attachments/assets/4cffa2c9-d276-4f96-a219-0fe059598b45" />
+
+- waiting for expert resposne in Slack; going to select some chips to use
+- after brief research, i've decided to use BME280 and LSM6DS3
+- BME280 is temperature, while the LSM6DS3 is accelorometer
+
+<img width="245" height="446" alt="image" src="https://github.com/user-attachments/assets/c572c9c6-f3a2-45c6-98ca-aa34ce1d59c8" />
+
+- after much reading of datasheets, came up with this! hopefully it is correct
+
+<img width="390" height="589" alt="image" src="https://github.com/user-attachments/assets/4757f6ed-9268-40a3-93fd-0c8d4ca00880" />
+
+- rev 3 is complete!

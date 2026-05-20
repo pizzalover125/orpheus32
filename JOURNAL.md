@@ -78,7 +78,7 @@
 
 <img width="724" height="521" alt="image" src="https://github.com/user-attachments/assets/a5b7a68e-b5ad-479a-b604-017c4db5f8b2" />
 
-### 5/19: rev 3 (3hr)
+### 5/19: rev 3.1 (3hr)
 - @Rudy on Slack told me to use a ESP32 with built-in UART-to-USB
 - ig thats what we are doing for this
 - after brief research, I found ESP32-S3-WROOM-1 with 36 GPIO
@@ -114,3 +114,36 @@
 <img width="390" height="589" alt="image" src="https://github.com/user-attachments/assets/4757f6ed-9268-40a3-93fd-0c8d4ca00880" />
 
 - rev 3 is complete!
+
+### 5/20: rev 3.1 (1hr)
+- I fixed DRC errors that Taran pointed out
+- now i want to add a neopixel to make it look cooler
+- going to use SK6812 cause why not
+- routed it!
+- will add 3d model
+- ok added it from SnapEDA
+- wait the headers are reversed; need to fix
+
+<img width="672" height="583" alt="image" src="https://github.com/user-attachments/assets/5ce3f394-bfdb-4f78-a05f-3cce2865ecda" />
+
+- time for silkscreen
+- raygen wants me to add another neopixel
+- was not planning to, but sure
+- added!
+
+<img width="440" height="572" alt="image" src="https://github.com/user-attachments/assets/71542ee3-c655-4b03-8763-db6884ba87c5" />
+
+ - going to view other devboards
+ - notes from other breadboards:
+   - label schematic to make it pretty
+   - label pins (seems to be very important)
+   - hack club logo + other silkscreen art
+- ok im locked in now
+- wow this is harder than I expected
+- first half done! one more half to go
+- had a bunch of problems choosing font and positioning properly
+
+<img width="375" height="460" alt="image" src="https://github.com/user-attachments/assets/e8078a52-e57e-4446-b389-fb19cd0ba0d3" />
+
+- made post on Hack Club Slack
+- ok i think thats it for now; will come back to fix  problems, tidy schematic, and prepare to submit!

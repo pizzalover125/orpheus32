@@ -78,7 +78,7 @@
 
 <img width="724" height="521" alt="image" src="https://github.com/user-attachments/assets/a5b7a68e-b5ad-479a-b604-017c4db5f8b2" />
 
-### 5/19: rev 3.1 (3hr)
+### 5/19: rev 3 (3hr)
 - @Rudy on Slack told me to use a ESP32 with built-in UART-to-USB
 - ig thats what we are doing for this
 - after brief research, I found ESP32-S3-WROOM-1 with 36 GPIO

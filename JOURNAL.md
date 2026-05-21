@@ -147,3 +147,14 @@
 
 - made post on Hack Club Slack
 - ok i think thats it for now; will come back to fix  problems, tidy schematic, and prepare to submit!
+- seems like no major errors as nobody has said much on Slack
+- Taran told me to add which GPIO are being used for sensors, so I did that!
+- going to create order on JLC and source parts!
+
+<img width="419" height="625" alt="image" src="https://github.com/user-attachments/assets/861822b0-5234-448d-ab0d-aa9bee6c105b" />
+
+- im doing everything except the pins cause i don't really need them PCBA
+
+<img width="663" height="411" alt="image" src="https://github.com/user-attachments/assets/e90b4295-8421-430a-8d69-c0c33131750b" />
+
+...

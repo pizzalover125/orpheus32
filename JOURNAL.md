@@ -161,7 +161,7 @@
 - but first, i need to fix all the things Rudy mentioned
 - ahhh too tired for this; will do tmrw ig
 
-### 5/21: rev 3.2 (1hr)
+### 5/21: rev 3.2 + rev4 (2hr)
 - redoing all the passives
 - going to change placement as well
 
@@ -178,3 +178,27 @@
 - time to see price bc i lessened number of items
 - bruh price is $93 now
 - $180 w customs and shipping 😢
+- I HAVE TO RESTART bc ESP32-S3 is too expensive
+- luckily i have rev2 still available which uses
+
+<img width="411" height="529" alt="image" src="https://github.com/user-attachments/assets/a41e1987-02a6-4009-a221-4f1c0a8b72f5" />
+
+- routing time
+- wait ill add SK6218-mini
+- ok added
+
+<img width="309" height="434" alt="image" src="https://github.com/user-attachments/assets/8be38b3e-0780-48df-978d-fe892f08c593" />
+
+- PCB done! need to add silkscreen now!
+
+<img width="385" height="552" alt="image" src="https://github.com/user-attachments/assets/eaf97c20-b58c-4cd7-8e42-e9358d3ad869" />
+
+- both sides done!
+- time to add Hack Club logo
+
+<img width="450" height="511" alt="image" src="https://github.com/user-attachments/assets/8230aeaa-9e12-4cf9-8d19-0d54f8feb748" />
+
+- BOOM!
+- ok sent message in slack
+- idk i feel like accelorometer is not needed
+- i think i might prepare for submission now

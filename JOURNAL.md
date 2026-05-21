@@ -115,7 +115,7 @@
 
 - rev 3 is complete!
 
-### 5/20: rev 3.1 (1hr)
+### 5/20: rev 3.1 (2hr)
 - I fixed DRC errors that Taran pointed out
 - now i want to add a neopixel to make it look cooler
 - going to use SK6812 cause why not
@@ -157,4 +157,6 @@
 
 <img width="663" height="411" alt="image" src="https://github.com/user-attachments/assets/e90b4295-8421-430a-8d69-c0c33131750b" />
 
-...
+- ok i can do a lot of optimization
+- but first, i need to fix all the things Rudy mentioned
+- ahhh too tired for this; will do tmrw ig

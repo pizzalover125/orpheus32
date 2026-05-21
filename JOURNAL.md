@@ -160,3 +160,21 @@
 - ok i can do a lot of optimization
 - but first, i need to fix all the things Rudy mentioned
 - ahhh too tired for this; will do tmrw ig
+
+### 5/21: rev 3.2 (1hr)
+- redoing all the passives
+- going to change placement as well
+
+<img width="1161" height="489" alt="image" src="https://github.com/user-attachments/assets/717da15a-6563-4c95-87fa-7a7259df5e17" />
+
+- some changes to values + decoupling caps added
+- done with pairs + placement!
+
+<img width="414" height="628" alt="image" src="https://github.com/user-attachments/assets/78408c05-fd5b-4f1a-8ff0-8ed245c4ccc0" />
+
+<img width="508" height="669" alt="image" src="https://github.com/user-attachments/assets/84ff7625-c49d-4fe3-a18a-fc50ee917464" />
+
+- wowoowowowow
+- time to see price bc i lessened number of items
+- bruh price is $93 now
+- $180 w customs and shipping 😢

@@ -202,3 +202,21 @@
 - ok sent message in slack
 - idk i feel like accelorometer is not needed
 - i think i might prepare for submission now
+- ok going to prepare for submission
+- added cool labels to evrything
+- creating render cause why not
+
+Render
+<img width="276" height="501" alt="image" src="https://github.com/user-attachments/assets/c1c2e1a5-d478-4c72-b10c-ac01b4ad501a" />
+<img width="327" height="477" alt="image" src="https://github.com/user-attachments/assets/546fa3e4-222b-4750-9c1e-f4ec0d35417b" />
+
+PCB + Schematic
+<img width="681" height="458" alt="image" src="https://github.com/user-attachments/assets/7569f921-10ba-4472-8e93-c34ced7d442a" />
+<img width="366" height="543" alt="image" src="https://github.com/user-attachments/assets/771162e4-dcde-4976-8c01-3ec8771aab3b" />
+
+KiCAD Render
+<img width="301" height="528" alt="image" src="https://github.com/user-attachments/assets/b18ac87e-0b24-4b6f-9509-a8bf43e65964" />
+<img width="350" height="531" alt="image" src="https://github.com/user-attachments/assets/20a04c4b-cfa5-415b-b20f-0817cb8d7923" />
+
+- JLC comes out to $40.30 👀
+- ok time to upload files and prepare README
